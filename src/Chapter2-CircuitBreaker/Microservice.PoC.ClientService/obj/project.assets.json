@@ -12112,23 +12112,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "C:\\Users\\edisonzhou\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\Git\\Microservice.PoC.Steeltoe\\src\\Chapter2-CircuitBreaker\\Microservice.PoC.ClientService\\Microservice.PoC.ClientService.csproj",
+      "projectUniqueName": "D:\\Git\\GitHub\\Microservice.PoC.Steeltoe\\src\\Chapter2-CircuitBreaker\\Microservice.PoC.ClientService\\Microservice.PoC.ClientService.csproj",
       "projectName": "Microservice.PoC.ClientService",
-      "projectPath": "E:\\Projects\\Git\\Microservice.PoC.Steeltoe\\src\\Chapter2-CircuitBreaker\\Microservice.PoC.ClientService\\Microservice.PoC.ClientService.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\Git\\Microservice.PoC.Steeltoe\\src\\Chapter2-CircuitBreaker\\Microservice.PoC.ClientService\\obj\\",
+      "projectPath": "D:\\Git\\GitHub\\Microservice.PoC.Steeltoe\\src\\Chapter2-CircuitBreaker\\Microservice.PoC.ClientService\\Microservice.PoC.ClientService.csproj",
+      "packagesPath": "C:\\Users\\edisonzhou\\.nuget\\packages\\",
+      "outputPath": "D:\\Git\\GitHub\\Microservice.PoC.Steeltoe\\src\\Chapter2-CircuitBreaker\\Microservice.PoC.ClientService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\edisonzhou\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
